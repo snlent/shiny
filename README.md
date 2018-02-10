@@ -1,0 +1,2 @@
+# Shiny applications
+* **Trump Change:** The tax estimation quiz on [trump-change.org](www.trump-change.org/quiz) was created with the R shiny app code in the [taxquizapp](https://github.com/snlent/shiny/blob/master/taxquizapp/) directory. The quiz estimates money saved under the 2017 tax bill and suggests highly rated charities to donate savings to based on users' preferred causes.
